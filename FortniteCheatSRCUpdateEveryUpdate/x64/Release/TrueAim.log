@@ -1,0 +1,22 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(477,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(1069,5): warning MSB8027: Two or more files with the name of FortUpdaters.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are Header Files\FortUpdaters\FortUpdaters.cpp, Source Files\FortUpdaters\FortUpdaters.cpp.
+  menu.cpp
+C:\Users\danie\Pictures\FortniteCheatSRCUpdateEveryUpdate-master\FortniteCheatSRCUpdateEveryUpdate\Header Files\includes.h(7,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+C:\Users\danie\Pictures\FortniteCheatSRCUpdateEveryUpdate-master\FortniteCheatSRCUpdateEveryUpdate\Source Files\menu\menu.cpp : message : see previous definition of '_CRT_SECURE_NO_WARNINGS'
+C:\Users\danie\Pictures\FortniteCheatSRCUpdateEveryUpdate-master\FortniteCheatSRCUpdateEveryUpdate\Source Files\menu\menu.cpp(115,33): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\danie\Pictures\FortniteCheatSRCUpdateEveryUpdate-master\FortniteCheatSRCUpdateEveryUpdate\Source Files\menu\menu.cpp(117,41): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\danie\Pictures\FortniteCheatSRCUpdateEveryUpdate-master\FortniteCheatSRCUpdateEveryUpdate\Source Files\menu\menu.cpp(118,69): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\danie\Pictures\FortniteCheatSRCUpdateEveryUpdate-master\FortniteCheatSRCUpdateEveryUpdate\Source Files\menu\menu.cpp(216,45): warning C4305: '=': truncation from 'float' to 'bool'
+C:\Users\danie\Pictures\FortniteCheatSRCUpdateEveryUpdate-master\FortniteCheatSRCUpdateEveryUpdate\Source Files\menu\menu.cpp(538,45): warning C4244: 'argument': conversion from 'float' to 'DWORD', possible loss of data
+C:\Users\danie\Pictures\FortniteCheatSRCUpdateEveryUpdate-master\FortniteCheatSRCUpdateEveryUpdate\Source Files\menu\menu.cpp(691,72): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\danie\Pictures\FortniteCheatSRCUpdateEveryUpdate-master\FortniteCheatSRCUpdateEveryUpdate\Source Files\menu\menu.cpp(763,16): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\danie\Pictures\FortniteCheatSRCUpdateEveryUpdate-master\FortniteCheatSRCUpdateEveryUpdate\Source Files\menu\menu.cpp(778,15): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+x64\Release\FortUpdaters.obj : warning LNK4042: object specified more than once; extras ignored
+     Creating library .\x64\Release\Release\FortniteCheatSRCUpdateEveryUpdateVisual9999.lib and object .\x64\Release\Release\FortniteCheatSRCUpdateEveryUpdateVisual9999.exp
+LINK : warning LNK4098: defaultlib 'LIBCMT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+C:\Users\danie\Pictures\FortniteCheatSRCUpdateEveryUpdate-master\FortniteCheatSRCUpdateEveryUpdate\Source Files\core\core.cpp(410): warning C4715: 'Core::Initialize': not all control paths return a value
+  All 1575 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  TrueAim.vcxproj -> C:\Users\danie\Pictures\FortniteCheatSRCUpdateEveryUpdate-master\FortniteCheatSRCUpdateEveryUpdate\x64\Release\Release\FortniteCheatSRCUpdateEveryUpdateVisual9999.dll
